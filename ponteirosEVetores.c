@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-
 int main(void) {
   
     int v[4] = {1,2,3,4};
